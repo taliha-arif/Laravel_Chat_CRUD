@@ -75,7 +75,7 @@ MAIL_ENCRYPTION=tls
 Open cmd and go to your project directory folder and run <br>
 php artisan serve
 
-
+<b>For further understaing of project, read the document "Functional Description".</b> <br>
 <b>Enjoy Text or Audio Messaging!<b>
 
 
